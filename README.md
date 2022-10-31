@@ -7,6 +7,12 @@
 - 📫 You can reach me at tale1000@gmail.com
 - ⚡ My Hobbies: 🎵 music and 🌊 diving.
 
+<h3 align=left> Find me on: </h3>
+<p>
+<!--  <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> -->
+ <a href="mailto:tale1000@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
@@ -55,6 +61,5 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 </p>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalElmaliachHemo&theme=transparent)
