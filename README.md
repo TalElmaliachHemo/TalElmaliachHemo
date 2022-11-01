@@ -3,14 +3,18 @@
 
 - 🎯 I'm High self-disciplined with a constant drive for professional excellence.
 - 🧠 I love to learn and enrich my knowledge.
-- 🏆 I recently built a clone of Monday, [check it out here](https://workday.onrender.com)
-- 📫 You can reach me at tale1000@gmail.com
+- 🏆 I recently built a clone of Monday, [check it out here](https://workday.onrender.com).
+- 📫 You can reach me at tale1000@gmail.com.
 - ⚡ My Hobbies: 🎵 music and 🌊 diving.
 
 <h3 align=left> Find me on: </h3>
 <p>
-<!--  <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> -->
- <a href="mailto:tale1000@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<!-- <a href="https://www.linkedin.com/in/talelmaliachhemo/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talelmaliachhemo/" height="40" width="40" />
+ </a> -->
+ <a href="mailto:tale1000@gmail.com" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="40" width="40">
+ </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
