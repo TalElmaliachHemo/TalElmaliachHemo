@@ -9,7 +9,7 @@
 
 <h3 align=left> Find me on: </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tal-hemo-077969255/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/tal-hemo-077969255/" target="blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tal-hemo-077969255/" height="40" width="40" />
 </a>
 </p>
