@@ -8,13 +8,10 @@
 - ⚡ My Hobbies: 🎵 music and 🌊 diving.
 
 <h3 align=left> Find me on: </h3>
-<p>
-<!-- <a href="https://www.linkedin.com/in/talelmaliachhemo/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talelmaliachhemo/" height="40" width="40" />
- </a> -->
- <a href="mailto:tale1000@gmail.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="40" width="40">
- </a>
+<p align="left">
+<a href="https://www.linkedin.com/in/tal-hemo-077969255/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tal-hemo-077969255/" height="40" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
