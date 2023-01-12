@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Tal Elmaliach Hemo 👋 </h1>
-<h3 align="center"> I'm currently looking for a Full-Stack / Frontend Developer position </h3>
+<h3 align="center"> I'm currently looking for a Full-Stack Developer position </h3>
 
 - 🎯 I'm High self-disciplined with a constant drive for professional excellence.
 - 🧠 I love to learn and enrich my knowledge.
